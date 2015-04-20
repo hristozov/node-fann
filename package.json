@@ -15,5 +15,7 @@
   "license"     : { "type"  : "WTFPL"
                   , "url"   : "http://www.wtfpl.net/txt/copying/" },
 
+  "engines"     : { "node" : "<0.11" },
+
   "gypfile"     : true
 }
